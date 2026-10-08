@@ -1,2 +1,1 @@
-# .github
-Malware Research Laboratory
+# Malware Research Laboratory
